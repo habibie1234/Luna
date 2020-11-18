@@ -16,8 +16,8 @@ const BotName = 'Luna 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/Habibiealamiin'; // Nama Instagramlu cok
 const whatsapplu = '0852-9003-9239'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'belum ada grup';
-const grupch2 = 'belum ada grup';
+//const grupch1 = 'belum ada grup';
+//const grupch2 = 'belum ada grup';
 //
 const
 {
